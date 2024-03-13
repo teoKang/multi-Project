@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/test-api-server/test-api-server.iml" filepath="$PROJECT_DIR$/test-api-server/test-api-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-batch-server/test-batch-server.iml" filepath="$PROJECT_DIR$/test-batch-server/test-batch-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-core-server/test-core-server.iml" filepath="$PROJECT_DIR$/test-core-server/test-core-server.iml" />
+    </modules>
+  </component>
+</project>

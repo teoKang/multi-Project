@@ -1,0 +1,4 @@
+rootProject.name = 'multi-Project'
+include 'test-api-server'
+include 'test-batch-server'
+include 'test-core-server'
